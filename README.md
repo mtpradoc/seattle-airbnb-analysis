@@ -58,10 +58,6 @@ This project explores Airbnb listings in Seattle using [Kaggle](https://www.kagg
 2. **Explore Visualizations**: Use filters to adjust the data, and drill down into specific zip codes, property types, or price ranges.
 3. **Understand the Insights**: Use the dashboard to identify the most profitable areas, optimal pricing strategies, and the best times to list properties.
 
-## File Structure
-- `README.md`: This project description.
-- `data/`: Contains the CSV files with Airbnb listings, reviews, and calendar data.
-- `tableau/`: Tableau workbook with all visualizations and the final dashboard.
 
 ## Key Insights
 - Zip code-based price trends can help potential Airbnb hosts decide where to buy properties.
