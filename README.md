@@ -45,6 +45,10 @@ This project explores Airbnb listings in Seattle using [Kaggle](https://www.kagg
 - Combined all visualizations into a comprehensive dashboard named **Airbnb Full Project**.
 - **Purpose**: Provide a full view of the pricing and availability trends for Airbnb listings in Seattle.
 
+<a href="https://public.tableau.com/views/SeattleAirbnbDataAnalysis_17274817676830/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+  <img src="https://github.com/user-attachments/assets/2c5d3923-f0fb-430c-8f52-dc0a8a803cf9">
+</a>
+
 ## Tools Used
 - **Tableau Public**: Used for data preparation, joining, and visualizing.
 - **Excel (CSV)**: Data source containing the 2016 Seattle Airbnb listings, reviews, and calendar information.
